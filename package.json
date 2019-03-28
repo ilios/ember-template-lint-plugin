@@ -1,6 +1,6 @@
 {
   "name": "@ilios/ember-template-lint-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Template Lint Plugin for Ilios Projects",
   "scripts": {
     "test": "ember-template-lint tests/ --config-path tests/test-template-lintrc.js"

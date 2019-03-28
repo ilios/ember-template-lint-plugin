@@ -5,7 +5,7 @@ module.exports = {
   name: 'ilios',
 
   rules: {
-
+  
   },
 
   configurations: {
@@ -16,7 +16,7 @@ module.exports = {
         'inline-link-to': true,
         'deprecated-each-syntax': true,
         'deprecated-inline-view-helper': true,
-        'eol-last': true,
+        'eol-last': 'always',
         'link-href-attributes': true,
         'no-bare-strings': true,
         'no-extra-mut-helper-argument': true,

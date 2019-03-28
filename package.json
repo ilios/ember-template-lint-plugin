@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Template Lint Plugin for Ilios Projects",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ember-template-lint tests/ --config-path tests/test-template-lintrc.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "homepage": "https://github.com/ilios/ember-template-lint-plugin/tree/master/ember-template-lint-plugin#readme",
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "ember-template-lint": "^1.1.0"
+  }
 }

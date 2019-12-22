@@ -10,7 +10,7 @@ module.exports = {
 
   configurations: {
     recommended: {
-      extends: 'recommended',
+      extends: 'octane',
       rules: {
         'img-alt-attributes': true,
         'inline-link-to': true,

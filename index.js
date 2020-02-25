@@ -21,7 +21,6 @@ module.exports = {
         'no-bare-strings': true,
         'no-extra-mut-helper-argument': true,
         'no-implicit-this': true,
-        'no-trailing-dot-in-path-expression': true,
         'no-trailing-spaces': true,
         quotes: 'double',
       }

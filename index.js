@@ -12,7 +12,7 @@ module.exports = {
     recommended: {
       extends: 'octane',
       rules: {
-        'img-alt-attributes': true,
+        'require-valid-alt-text': true,
         'inline-link-to': true,
         'deprecated-each-syntax': true,
         'deprecated-inline-view-helper': true,
@@ -21,7 +21,6 @@ module.exports = {
         'no-bare-strings': true,
         'no-extra-mut-helper-argument': true,
         'no-implicit-this': true,
-        'no-trailing-dot-in-path-expression': true,
         'no-trailing-spaces': true,
         quotes: 'double',
       }

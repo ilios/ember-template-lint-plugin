@@ -10,7 +10,7 @@ module.exports = {
 
   configurations: {
     recommended: {
-      extends: 'octane',
+      extends: 'recommended',
       rules: {
         'inline-link-to': true,
         'eol-last': 'always',

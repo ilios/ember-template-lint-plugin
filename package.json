@@ -19,6 +19,6 @@
     "index.js"
   ],
   "devDependencies": {
-    "ember-template-lint": "^3.0.0"
+    "ember-template-lint": "^4.0.0"
   }
 }

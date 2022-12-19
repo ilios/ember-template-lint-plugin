@@ -20,5 +20,9 @@
   ],
   "devDependencies": {
     "ember-template-lint": "^5.0.1"
+  },
+  "engines": {
+    "node": "14.* || 16.* || >= 18",
+    "npm": ">= 7"
   }
 }

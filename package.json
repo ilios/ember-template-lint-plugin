@@ -19,7 +19,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "ember-template-lint": "^5.0.1"
+    "ember-template-lint": "^6.0.0"
   },
   "engines": {
     "node": "14.* || 16.* || >= 18",
